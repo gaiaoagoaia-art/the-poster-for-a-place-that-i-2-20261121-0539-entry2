@@ -435,6 +435,19 @@ const png = Buffer.concat([
   chunk("IEND", Buffer.alloc(0)),
 ]);
 
+// Output validation guard: verify the encoded PNG before writing it.
+// A bad file must never be written, so fail here instead of after the fact.
+const outW = png.readUInt32BE(16);
+const outH = png.readUInt32BE(20);
+if (outW !== 1024 || outH !== 1024) {
+  console.error(`error: expected PNG 1024x1024, got ${outW}x${outH}`);
+  process.exit(1);
+}
+if (png.length > 1048576) {
+  console.error(`error: PNG is ${png.length} bytes, exceeds 1048576 byte limit`);
+  process.exit(1);
+}
+
 fs.mkdirSync("/output", { recursive: true });
 fs.writeFileSync("/output/entry.png", png);
 fs.writeFileSync("/tmp/entry-check.png", png);
