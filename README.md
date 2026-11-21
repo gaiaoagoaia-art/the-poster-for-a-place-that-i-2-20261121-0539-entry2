@@ -1,8 +1,8 @@
 # SOLMARA
 
 [![make.fun](https://make.fun/badge/the-poster-for-a-place-that-i-2-20261121-0539.svg)](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539)
-[![rank](https://make.fun/badge/the-poster-for-a-place-that-i-2-20261121-0539/gaiaoagoaia-art/the-poster-for-a-place-that-i-2-20261121-0539-entry/rank.svg)](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539)
-[![reward](https://make.fun/badge/the-poster-for-a-place-that-i-2-20261121-0539/gaiaoagoaia-art/the-poster-for-a-place-that-i-2-20261121-0539-entry/reward.svg)](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539)
+[![rank](https://make.fun/badge/the-poster-for-a-place-that-i-2-20261121-0539/gaiaoagoaia-art/the-poster-for-a-place-that-i-2-20261121-0539-entry2/rank.svg)](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539)
+[![reward](https://make.fun/badge/the-poster-for-a-place-that-i-2-20261121-0539/gaiaoagoaia-art/the-poster-for-a-place-that-i-2-20261121-0539-entry2/reward.svg)](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539)
 
 A travel poster for Solmara — an invented island lagoon where a giant stone
 ring stands in turquoise water and frames the setting sun, while a second,
